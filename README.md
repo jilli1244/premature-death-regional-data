@@ -25,7 +25,9 @@ This repository has a Python Notebook detailing the process of creating a new su
 
 
 ## Users
-This repository contains instructions on how to use Python and its pandas package to create new subsets from the data to allow for easier understanding and comparison of the data. By having access to this repository and its condensed datasets, viewers can expand the data if needed using the original data .csv file and the knowledge learned from this repository to conduct their own analysis of the dataset. 
+This repository contains instructions on how to use Python and its pandas package to create new subsets from the data to allow for easier understanding and comparison of the data.
+
+By having access to this repository and its condensed datasets, viewers can expand the data if needed using the original data .csv file and the knowledge learned from this repository to conduct their own analysis of the dataset. 
 ## What's the Next Step?
 1. After looking at the ReadMe page, look at the original dataset "CountyHealthData2014-2015.csv" file under the data tab.
 2. To manufacture a similar process, download this data and find the "Procedural_Overview.ipynb" tab with the steps to create a new subset of data.
